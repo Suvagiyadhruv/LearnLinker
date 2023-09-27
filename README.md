@@ -112,6 +112,6 @@ Mentors and Advisors: Saurabh Das.
 | Riya Patel| [riya.patel1209@gmail.com](mailto:riya.patel1209@gmail.com) |
 | Shivani vachhani| [vachhanishivani3@gmail.com](mailto:vachhanishivani3@gmail.com) |
 | Kalpesh Tank| [kalpeshtank153@gmail.com](mailto:kalpeshtank153@gmail.com) |
-| Satish kubavat| [satishkbvt2002@gmail.com](mailto:satishkubavat60@gmail.com) |
+| Satish kubavat| [satishkubavat60@gmail.com](mailto:satishkubavat60@gmail.com) |
 
 
