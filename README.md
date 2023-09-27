@@ -50,7 +50,7 @@ input features are (Exam ,Subject ,Topic name)
 output features are (Teacher, platform, Paid/free, Language, Link)
 create website Learn linker (give input features and get output features) for user
 ## How It Works 
-Provide a high-level overview of how our AI solution works. You can use diagrams or flowcharts to make it easier to understand. Explain the key components, data flow, and the AI/ML techniques utilized.
+(https://github.com/Suvagiyadhruv/LearnLinker/blob/main/Picture1.png)
 
 ## Challenges and Solutions >�
 Share any challenges our team faced during development and how you overcame them. This can include technical obstacles, data-related issues, or creative roadblocks.
